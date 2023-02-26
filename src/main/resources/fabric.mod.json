@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "ender-dragon-no-griefing",
+  "version": "${version}",
+  "name": "Ender Dragon No Griefing",
+  "description": "Disable Ender Dragon's block breaking",
+  "authors": [
+    "Kosmolot"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "server",
+  "mixins": [
+    "ender-dragon-no-griefing.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*"
+  }
+}
