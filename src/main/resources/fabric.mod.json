@@ -9,7 +9,6 @@
   ],
   "contact": {},
   "license": "MIT",
-  "environment": "server",
   "mixins": [
     "ender-dragon-no-griefing.mixins.json"
   ],
